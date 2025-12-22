@@ -2669,7 +2669,7 @@
 "Red Eye Scott": {
         "Type": "AOE",
         "Image": "rbxassetid://80090826957278",
-        "Rarity": "Nightmare",
+        "Rarity": "Developer",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 2,
