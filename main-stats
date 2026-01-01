@@ -2201,7 +2201,7 @@
   "Sorcerer Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://96226378459150",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
