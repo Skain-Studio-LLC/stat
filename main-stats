@@ -115,6 +115,54 @@
             }
         ]
     },
+"Glitched Freddy": {
+        "Type": "Cone AOE Slow + Passive",
+        "Image": "rbxassetid://79281029634533",
+        "Rarity": "Nightmare",
+        "PlacePrice": 400,
+        "Offset": 0.25,
+        "Max": 3,
+        "Passive": {"Name": "Icicles", "Description": "Enemies hit by attacks proc a 55% AOE slow."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1.2,
+                "Slow": 0.45,
+                "SlowTime": 1
+            },
+            {
+                "Price": 500,
+                "Range": 24,
+                "Damage": 850,
+                "Cooldown": 1.1,
+                "Slow": 0.45,
+                "SlowTime": 1
+            },
+            {
+                "Price": 600,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.45,
+                "SlowTime": 1
+            },
+            {
+                "Price": 800,
+                "Range": 27,
+                "Damage": 1300,
+                "Cooldown": 1,
+                "Slow": 0.45,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
