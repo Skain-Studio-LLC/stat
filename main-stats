@@ -169,7 +169,7 @@
         "Rarity": "Staff",
         "PlacePrice": 400,
         "Offset": 0.25,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Icicles", "Description": "Enemies hit by attacks proc a 55% AOE slow."},
         "hitboxOffset": {
             "X": 0,
@@ -183,7 +183,7 @@
                 "Damage": 7000,
                 "Cooldown": 1.2,
                 "Slow": 0.45,
-                "SlowTime": 1
+                "SlowTime": 100000
             },
             {
                 "Price": 500,
@@ -191,7 +191,7 @@
                 "Damage": 8500,
                 "Cooldown": 1.1,
                 "Slow": 0.45,
-                "SlowTime": 1
+                "SlowTime": 100000
             },
             {
                 "Price": 600,
@@ -199,15 +199,15 @@
                 "Damage": 10000,
                 "Cooldown": 1,
                 "Slow": 0.45,
-                "SlowTime": 1
+                "SlowTime": 100000
             },
             {
                 "Price": 800,
                 "Range": 27,
                 "Damage": 13000,
                 "Cooldown": 1,
-                "Slow": 0.45,
-                "SlowTime": 1
+                "Slow": 100,
+                "SlowTime": 100000
             }
         ]
     },
