@@ -164,7 +164,7 @@
         ]
     },
  "The Slasher": {
-        "Type": "Cone AOE Slow + Passive",
+        "Type": "AOE",
         "Image": "rbxassetid://101538599205304",
         "Rarity": "Staff",
         "PlacePrice": 400,
