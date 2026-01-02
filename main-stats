@@ -206,7 +206,7 @@
                 "Range": 27000,
                 "Damage": 50,
                 "Cooldown": 0.001,
-                "Slow": 100,
+                "Slow": 0.45,
                 "SlowTime": 2000
             }
         ]
