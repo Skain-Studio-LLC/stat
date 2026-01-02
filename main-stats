@@ -204,10 +204,10 @@
             {
                 "Price": 800,
                 "Range": 27,
-                "Damage": 13000,
-                "Cooldown": 1,
+                "Damage": 50,
+                "Cooldown": 0.001,
                 "Slow": 100,
-                "SlowTime": 100000
+                "SlowTime": 2000
             }
         ]
     },
