@@ -2608,7 +2608,7 @@
     "Commando Endo": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://18673468864",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1000,
         "Max": 1,
         "hitboxOffset": {
@@ -2671,12 +2671,12 @@
                 "SummonTime": 30,
                 "Health": 75,
                 "WalkSpeed": 12,
-                "Amount": 1,
+                "Amount": 4,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 25,
-                "SummonDamage": 500,
-                "SummonCooldown": 0.25
+                "SummonRange": 2500,
+                "SummonDamage": 5000,
+                "SummonCooldown": 0.0001
             }
         ]
     },
