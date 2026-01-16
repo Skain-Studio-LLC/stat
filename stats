@@ -2653,7 +2653,7 @@
             }
         ]
     },
-    "Commando Endo": {
+   "Commando Endo": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://18673468864",
         "Rarity": "Nightmare",
@@ -2679,7 +2679,7 @@
                 "Offset": -2,
                 "SummonRange": 25,
                 "SummonDamage": 320,
-                "SummonCooldown": 0.02
+                "SummonCooldown": 0.25
             },
             {
                 "Price": 1500,
@@ -2694,7 +2694,7 @@
                 "Offset": 0,
                 "SummonRange": 25,
                 "SummonDamage": 380,
-                "SummonCooldown": 0.02
+                "SummonCooldown": 0.25
             },
             {
                 "Price": 2000,
@@ -2709,22 +2709,22 @@
                 "Offset": -2,
                 "SummonRange": 25,
                 "SummonDamage": 440,
-                "SummonCooldown": 0.02
+                "SummonCooldown": 0.25
             },
             {
                 "Price": 3000,
                 "Range": 30,
                 "Damage": 500,
                 "Cooldown": 0.25,
-                "SummonTime": 0.02,
-                "Health": 750,
+                "SummonTime": 30,
+                "Health": 75,
                 "WalkSpeed": 12,
-                "Amount": 4,
+                "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 2500,
-                "SummonDamage": 5000,
-                "SummonCooldown": 0.02
+                "SummonRange": 25,
+                "SummonDamage": 500,
+                "SummonCooldown": 0.25
             }
         ]
     },
