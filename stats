@@ -5110,7 +5110,7 @@
         "Astral Bonnie": {
             "Type": "Continuous Splash",
             "Image": "rbxassetid://128604882971057",
-            "Rarity": "Apex",
+            "Rarity": "Celestial",
             "PlacePrice": 20000,
             "Offset": 0.5,
             "Max": 3,
@@ -6075,7 +6075,7 @@
 "Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 11340,
         "Offset": 0.5,
         "Max": 1,
@@ -6805,7 +6805,7 @@
     "Gravelord Foxy": {
         "Type": "Summon + Pierce",
         "Image": "rbxassetid://76307842206911",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 20000,
         "Offset": 0.5,
         "Max": 4,
@@ -8692,7 +8692,7 @@
     "Kronos Endo Freddy": {
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://138634254895239",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -8959,7 +8959,7 @@
     "Dark Knight Puppet": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://86604943457071",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 70000,
         "Offset": 0,
         "Max": 2,
@@ -9326,7 +9326,7 @@
     "Black Ice Freddy": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://86213031666835",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 30000,
         "Offset": 0.65,
         "Max": 2,
@@ -9557,7 +9557,7 @@
     "Frostbite Freddy": {
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://105411536427656",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 30000,
         "Offset": 0.65,
         "Max": 1,
@@ -9704,7 +9704,7 @@
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 17743,
         "Offset": 0,
         "Max": 1,
@@ -10261,7 +10261,7 @@
     "Gilded Knight": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://120947166823124",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
@@ -10450,7 +10450,7 @@
     "Titan Crusher Freddy": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://78775426136136",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 80000,
         "Offset": 0.3,
         "Max": 1,
@@ -10809,7 +10809,7 @@
     "Apollo's Sun": {
         "Type": "Nuke + Anti Heal",
         "Image": "rbxassetid://120968472381141",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 35000,
         "Offset": 0,
         "Max": 2,
@@ -11005,7 +11005,7 @@
     "Apollo's Moon": {
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://92233400124489",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 1,
@@ -11608,7 +11608,7 @@
     "Queen of Hearts Ballora": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://120386866285195",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -11791,7 +11791,7 @@
     "Planet Buster Scott": {
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://89049349505606",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 70000,
         "Offset": 1,
         "Max": 1,
@@ -12106,7 +12106,7 @@
     "Speed Dial": {
         "Type": "Pierce + Summon",
         "Image": "rbxassetid://76229204396312",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 55000,
         "Offset": 0.5,
         "Max": 3,
@@ -12731,7 +12731,7 @@
     "MXES": {
         "Type": "AOE Slow + Poison",
         "Image": "rbxassetid://81772315176647",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 22222,
         "Offset": 1,
         "Max": 1,
@@ -13075,7 +13075,7 @@
     "Toxic Springtrap": {
         "Type": "Pierce Spread + Passive",
         "Image": "rbxassetid://128503373439117",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 30000,
         "Offset": 0.5,
         "Max": 1,
@@ -13338,7 +13338,7 @@
     "Chicasaurus Rex": {
         "Type": "Slash + Passive",
         "Image": "rbxassetid://139482431949632",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 40000,
         "Offset": 2.2,
         "Max": 1,
@@ -13378,7 +13378,7 @@
         "Chicazilla": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://85789248456776",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 75000,
         "Offset": 2.7,
         "Max": 1,
@@ -14537,7 +14537,7 @@
     "Mr Hippo": {
         "Type": "Trapper + Turret",
         "Image": "rbxassetid://73851279283098",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 68000,
         "Offset": 0,
         "Max": 2,
@@ -14582,7 +14582,7 @@
     "Jester Puppet": {
         "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://112806747062575",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -14635,7 +14635,7 @@
     "Gilded Jester Puppet": {
         "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://103324053538505",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -15110,7 +15110,7 @@
     "Aquatic Ballora": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://109953928431580",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 22000,
         "Offset": 0.4,
         "Max": 2,
@@ -15158,7 +15158,7 @@
     "Oceanic Ballora": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://109670372514457",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 35000,
         "Offset": 0.4,
         "Max": 1,
@@ -15485,7 +15485,7 @@
  "Neo Titan Freddy": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://98687996514061",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 56000,
         "Offset": 0.3,
         "Max": 1,
@@ -15650,7 +15650,7 @@
     "Glitchtrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101957224781287",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
@@ -15706,7 +15706,7 @@
     "The Glitched": {
         "Type": "Nuke",
         "Image": "rbxassetid://103032877502508",
-        "Rarity": "Apex",
+        "Rarity": "Celestial",
         "PlacePrice": 99999,
         "Max": 1,
         "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking up to 5 enemies causing 20% Auto Execute. When a marked enemy is hit again, Mega Virus triggers dealing +652% damage, 2.8s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
