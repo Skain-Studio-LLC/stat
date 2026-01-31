@@ -118,7 +118,7 @@
  "Glitched Freddy": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://115410251423669",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -166,7 +166,7 @@
 "The Devil": {
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://115410251423669",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -503,7 +503,7 @@
     "Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16781197179",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 25000,
         "Max": 2,
         "hitboxOffset": {
@@ -851,7 +851,7 @@
     "Withered Golden Freddy": {
         "Type": "Single Wither",
         "Image": "rbxassetid://16781122207",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 4000,
         "Max": 4,
         "Passive": {"Name": "Vengeful", "Description": "Targetted enemies take +35% more damage for 1 second."},
@@ -1113,7 +1113,7 @@
  "Marionette's Puppeteer": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -1152,7 +1152,7 @@
     "Blighted Endo Freddy": {
         "Type": "AOE + Wither",
         "Image": "rbxassetid://18151573285",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 71000,
         "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
@@ -1405,7 +1405,7 @@
     "Leviathan Mangle": {
         "Type": "Pierce",
         "Image": "rbxassetid://18256011276",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 10000,
         "Max": 3,
         "hitboxOffset": {
@@ -1443,7 +1443,7 @@
     "Algae FredBear": {
         "Type": "Nuke",
         "Image": "rbxassetid://18255264349",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 3000,
         "Max": 2,
         "Passive": {"Name": "Sludge", "Description": "Attacks slow enemies by 55% for 1 second"},
@@ -1611,7 +1611,7 @@
     "SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://18356146630",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
@@ -1920,7 +1920,7 @@
     "Phantom Mangle": {
         "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 61000,
         "Max": 5,
         "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
@@ -2090,7 +2090,7 @@
     "Spring Bonnie": {
         "Type": "Support",
         "Image": "rbxassetid://18364574191",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 1000,
         "Max": 2,
         "hitboxOffset": {
@@ -2133,7 +2133,7 @@
   "Bounded Shadow": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363555442",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -2171,7 +2171,7 @@
     "Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 3000,
         "Offset": 0.35,
         "Max": 1,
@@ -2219,7 +2219,7 @@
     "War Machine Foxy": {
         "Type": "Continuous Cone AOE",
         "Image": "rbxassetid://18363581536",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 3500,
         "Offset": 0.45,
         "Max": 4,
@@ -2345,7 +2345,7 @@
   "Sorcerer Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://96226378459150",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
@@ -2393,7 +2393,7 @@
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
@@ -2656,7 +2656,7 @@
    "Commando Endo": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://18673468864",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 1000,
         "Max": 1,
         "hitboxOffset": {
@@ -2770,7 +2770,7 @@
     "Valkyrie Chica": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673330553",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 10000,
         "Max": 4,
         "hitboxOffset": {
@@ -3075,7 +3075,7 @@
     "Circuit Breaker Freddy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://18886487842",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -3127,7 +3127,7 @@
     "Glitched Puppeteer": {
         "Type": "Splash",
         "Image": "rbxassetid://18887217738",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 20000,
         "Offset": 0.7,
         "Max": 3,
@@ -3417,7 +3417,7 @@
     "NightMarionne": {
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 48000,
         "Offset": 0,
         "Max": 2,
@@ -3457,7 +3457,7 @@
     "Fredbear": {
         "Type": "Support",
         "Image": "rbxassetid://18977659349",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -3642,7 +3642,7 @@
     "Flame Empress Chica": {
         "Type": "Nuke Burn",
         "Image": "rbxassetid://18971134114",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 50000,
         "Offset": 0.5,
         "Max": 2,
@@ -3698,7 +3698,7 @@
     "Nightmare Mangle": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 65000,
         "Offset": -1,
         "Max": 2,
@@ -3880,7 +3880,7 @@
     "Nightmare Fredbear": {
         "Type": "Pierce",
         "Image": "rbxassetid://18978153260",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 5000,
         "Offset": 0.7,
         "Max": 2,
@@ -3928,7 +3928,7 @@
     "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
@@ -3979,7 +3979,7 @@
     "Galleon Foxy": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://118548312954474",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 8000,
         "Offset": 1.5,
         "Max": 3,
@@ -4269,7 +4269,7 @@
    "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -4426,7 +4426,7 @@
     "Agonized SpringTrap": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://132655301839150",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 66000,
         "Offset": 0,
         "Max": 2,
@@ -4486,7 +4486,7 @@
    "Limitless Shadow": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://134973909366355",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 58000,
         "Offset": 0,
         "Max": 2,
@@ -4733,7 +4733,7 @@
     "Bounty Mangle": {
         "Type": "Splash Farm",
         "Image": "rbxassetid://86267470826666",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 2,
@@ -4900,7 +4900,7 @@
     "Outlaw Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136678045195601",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 17000,
         "Offset": 0,
         "Max": 3,
@@ -4985,7 +4985,7 @@
     "Valkyrie Prime": {
         "Type": "Continuous",
         "Image": "rbxassetid://136035340656184",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 100000,
         "Offset": 0,
         "Max": 1,
@@ -5030,7 +5030,7 @@
     "Nautic Crusher Mangle": {
         "Type": "Pierce",
         "Image": "rbxassetid://85506116594248",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 55000,
         "Offset": 0,
         "Max": 2,
@@ -5069,7 +5069,7 @@
     "RWQFSFASXC": {
         "Type": "AOE",
         "Image": "rbxassetid://127646561328941",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 77000,
         "Offset": 0,
         "Max": 2,
@@ -5212,7 +5212,7 @@
 "Reactor Freddy": {
         "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 2,
@@ -5272,7 +5272,7 @@
 "Deadeye Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://139393570539370",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 62000,
         "Offset": 0,
         "Max": 2,
@@ -5318,7 +5318,7 @@
 "Ennard": {
         "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 43000,
         "Offset": 0.75,
         "Max": 2,
@@ -5368,7 +5368,7 @@
 "Circus Baby": {
         "Type": "Slash Stun",
         "Image": "rbxassetid://109411645448750",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 22500,
         "Offset": 0,
         "Max": 2,
@@ -5580,7 +5580,7 @@
 "Lolbit": {
         "Type": "Pierce Spread Stun",
         "Image": "rbxassetid://123600440160662",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 2,
@@ -5684,7 +5684,7 @@
 "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -5812,7 +5812,7 @@
 "Endo 05": {
         "Type": "Nuke Stun",
         "Image": "rbxassetid://75720210105816",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 54000,
         "Offset": 0.5,
         "Max": 1,
@@ -6026,7 +6026,7 @@
     "ITS ME": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://120282726125561",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 7500,
         "Offset": -1.4,
         "Max": 1,
@@ -6226,7 +6226,7 @@
     "Overclocked Puppeteer": {
         "Type": "Nuke",
         "Image": "rbxassetid://100495958746039",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 80000,
         "Offset": -0.4,
         "Max": 2,
@@ -6267,7 +6267,7 @@
 "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
         "Image": "rbxassetid://87973816034102",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 850,
         "Offset": 0,
         "Max": 3,
@@ -6360,7 +6360,7 @@
 "Scarecrow Foxy": {
         "Type": "Splash Stun + Passive",
         "Image": "rbxassetid://112050273953919",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 3,
@@ -6541,7 +6541,7 @@
 "Dreadbear": {
         "Type": "AOE Burn + Stun",
         "Image": "rbxassetid://71876084991999",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 51000,
         "Offset": 0,
         "Max": 1,
@@ -7262,7 +7262,7 @@
 "Blighted Endo Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://100997380896121",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 27500,
         "Offset": 0.5,
         "Max": 2,
@@ -7318,7 +7318,7 @@
     "Super Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://92313535673690",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
@@ -7366,7 +7366,7 @@
     "Juggernaut Bonnie": {
         "Type": "Continuous Splash + Passive",
         "Image": "rbxassetid://101410205353650",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 65000,
         "Offset": 0.4,
         "Max": 1,
@@ -7621,7 +7621,7 @@
     "Lefty": {
         "Type": "AOE + Summon",
         "Image": "rbxassetid://71854603701229",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7833,7 +7833,7 @@
     "Helpy": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://135679216615409",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 800,
         "Offset": -0.75,
         "Max": 3,
@@ -8001,7 +8001,7 @@
     "Scrap Baby": {
         "Type": "AOE + Wither",
         "Image": "rbxassetid://96792758281792",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
@@ -8105,7 +8105,7 @@
     "Jar of Pickles": {
         "Type": "Booster + Slow",
         "Image": "rbxassetid://98177156677827",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 3000,
         "Offset": -2,
         "Max": 2,
@@ -8199,7 +8199,7 @@
     "Scraptrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://101802698966800",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 3,
@@ -8240,7 +8240,7 @@
     "Popstar Chica": {
         "Type": "AOE + Damage Boost",
         "Image": "rbxassetid://122725475592106",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 12000,
         "Offset": -5,
         "Max": 2,
@@ -8287,7 +8287,7 @@
     "Overseer Foxy": {
         "Type": "Splash Slow + Passive",
         "Image": "rbxassetid://75863350712625",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": -3.25,
         "Max": 3,
@@ -8417,7 +8417,7 @@
     "Duelist Puppet": {
         "Type": "Pierce Slow",
         "Image": "rbxassetid://127027664698206",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 33000,
         "Offset": 0,
         "Max": 2,
@@ -8589,7 +8589,7 @@
     "Diver Endo": {
         "Type": "Slash + Slow",
         "Image": "rbxassetid://123144805229790",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -8785,7 +8785,7 @@
     "Widow Baby": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://88651417030551",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 38000,
         "Offset": 0,
         "Max": 2,
@@ -8825,7 +8825,7 @@
     "StoneTrap": {
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://102592059060827",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -9007,7 +9007,7 @@
     "The King": {
         "Type": "Pierce Spread",
         "Image": "rbxassetid://95564353539990",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 60000,
         "Offset": 0,
         "Max": 1,
@@ -9182,7 +9182,7 @@
     "Jolly Shadow Bonnie": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://89683904091075",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 22000,
         "Offset": 0,
         "Max": 2,
@@ -9230,7 +9230,7 @@
     "Frost Queen Ballora": {
         "Type": "Cooldown Boost + Passive",
         "Image": "rbxassetid://134318454455185",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 2000,
         "Offset": 0.5,
         "Max": 2,
@@ -9374,7 +9374,7 @@
     "Icetrap": {
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://135737173585938",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 9500,
         "Offset": 0.25,
         "Max": 2,
@@ -9461,7 +9461,7 @@
     "Overlord Scott": {
         "Type": "Nuke + Stun",
         "Image": "rbxassetid://135915053690231",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 16000,
         "Offset": -1,
         "Max": 1,
@@ -9509,7 +9509,7 @@
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 4000,
         "Offset": 0.75,
         "Max": 2,
@@ -9656,7 +9656,7 @@
     "Winter Soldier Bonnie": {
         "Type": "Pierce + Stun",
         "Image": "rbxassetid://124730858766216",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 7500,
         "Offset": 0,
         "Max": 3,
@@ -9980,7 +9980,7 @@
     "Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://123157660320018",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": 0.5,
         "Max": 1,
@@ -10029,7 +10029,7 @@
     "DJ Music Man": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://92862090905850",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 1000,
         "Offset": 1,
         "Max": 1,
@@ -10077,7 +10077,7 @@
 "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 30000,
         "Offset": -2,
         "Max": 1,
@@ -10167,7 +10167,7 @@
     "Stardrop": {
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://107273207289047",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 32000,
         "Offset": 0,
         "Max": 2,
@@ -10358,7 +10358,7 @@
     "Shadow of Afton": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://78940990099734",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 14500,
         "Offset": 0,
         "Max": 2,
@@ -10398,7 +10398,7 @@
     "Blighted Foxy": {
         "Type": "Slash + Wither",
         "Image": "rbxassetid://111513747219820",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 17500,
         "Offset": 0.4,
         "Max": 2,
@@ -10533,7 +10533,7 @@
     "Ares Endoxus": {
         "Type": "Pierce",
         "Image": "rbxassetid://97883839997626",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -10665,7 +10665,7 @@
     "Forge Withered Bonnie": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://77325921551661",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 2,
@@ -10760,7 +10760,7 @@
     "Kingtrap": {
         "Type": "Booster + Passive",
         "Image": "rbxassetid://85624068831283",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 1200,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -10953,7 +10953,7 @@
     "Glamrock Bonnie": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://111634413490207",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 42000,
         "Offset": 0,
         "Max": 2,
@@ -11065,7 +11065,7 @@
     "Soulmate Puppet": {
         "Type": "Splash + Passive",
         "Image": "rbxassetid://127566861240944",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 20000,
         "Offset": -0.4,
         "Max": 2,
@@ -11236,7 +11236,7 @@
     "Vanny": {
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://86358962940619",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
@@ -11284,7 +11284,7 @@
     "Burntrap": {
         "Type": "Splash + Anti Regen",
         "Image": "rbxassetid://120446334712341",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
@@ -11333,7 +11333,7 @@
    "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
@@ -11373,7 +11373,7 @@
     "Candy Cadet": {
         "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -11552,7 +11552,7 @@
     "Flaming Springtrap": {
         "Type": "Splash Burn + Slow",
         "Image": "rbxassetid://90439626995960",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 2,
@@ -11648,7 +11648,7 @@
     "Sorcerer Ennard": {
         "Type": "Splash",
         "Image": "rbxassetid://108071824061545",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 21000,
         "Offset": 0,
         "Max": 2,
@@ -11743,7 +11743,7 @@
     "Dread Pirate Foxy": {
         "Type": "Splash + Stun",
         "Image": "rbxassetid://119908435134121",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 5000,
         "Offset": 0.45,
         "Max": 2,
@@ -11839,7 +11839,7 @@
     "Spring Trooper": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://124509672214842",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -11887,7 +11887,7 @@
     "Android Mangle": {
         "Type": "Splash Continuous",
         "Image": "rbxassetid://114065925105074",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 2,
@@ -11965,7 +11965,7 @@
     "Overseer Lolbit": {
         "Type": "Damage + Cooldown Boost",
         "Image": "rbxassetid://139829283293732",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 3,
@@ -12167,7 +12167,7 @@
     "Bear5": {
         "Type": "bear5",
         "Image": "rbxassetid://111268061255623",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 555,
         "Offset": 0,
         "Max": 5,
@@ -12215,7 +12215,7 @@
     "Michael Afton": {
         "Type": "Trapper",
         "Image": "rbxassetid://114032714827197",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
@@ -12304,7 +12304,7 @@
     "Steve Raglan": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://73876097031973",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 14000,
         "Offset": 0,
         "Max": 2,
@@ -12583,7 +12583,7 @@
     "El Chip": {
         "Type": "Triple Boost",
         "Image": "rbxassetid://90676082223007",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
@@ -12636,7 +12636,7 @@
     "XOR": {
         "Type": "Cone AOE + Poison",
         "Image": "rbxassetid://127369273439025",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 19000,
         "Offset": 0,
         "Max": 2,
@@ -12683,7 +12683,7 @@
     "Dee Dee": {
         "Type": "Nuke + Stun",
         "Image": "rbxassetid://120034059081977",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 1,
@@ -12787,7 +12787,7 @@
     "Paperpals": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://88743014752394",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -12883,7 +12883,7 @@
     "Easter Freddles": {
         "Type": "AOE + Summon",
         "Image": "rbxassetid://98145580021622",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -12935,7 +12935,7 @@
     "Piranha Plushtrap": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://88671033425525",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 14000,
         "Offset": -0.5,
         "Max": 2,
@@ -13027,7 +13027,7 @@
     "Ringmaster Foxy": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://132624234904948",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 2,
@@ -13267,7 +13267,7 @@
     "Dino Dreadbear": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://81040981850985",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
@@ -13458,7 +13458,7 @@
         "Triceratops Chica": {
         "Type": "Slash",
         "Image": "rbxassetid://73945180276553",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 33333,
         "Offset": 0,
         "Max": 3,
@@ -13498,7 +13498,7 @@
         "Paleontologist Springbonnie": {
         "Type": "Splash + Booster",
         "Image": "rbxassetid://75314778427273",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
@@ -13621,7 +13621,7 @@
         "Hot Air Balloon Boy": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://81085704927371",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 40000,
         "Offset": -3,
         "Max": 3,
@@ -13669,7 +13669,7 @@
         "Blimp Boy": {
         "Type": "Nuke + Burn",
         "Image": "rbxassetid://136167482897006",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 75000,
         "Offset": 0,
         "Max": 1,
@@ -13775,7 +13775,7 @@
     "LeBronnie": {
         "Type": "Chain",
         "Image": "rbxassetid://94059367110525",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 23000,
         "Offset": 1,
         "Max": 1,
@@ -13951,7 +13951,7 @@
     "Funtime Chica": {
         "Type": "Cone AOE + Boost",
         "Image": "rbxassetid://103017752267035",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 20000,
         "Offset": 0.4,
         "Max": 2,
@@ -13996,7 +13996,7 @@
     "ITP Springbonnie": {
         "Type": "Continous Splash + Passive",
         "Image": "rbxassetid://72646308433490",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 39000,
         "Offset": 0.5,
         "Max": 1,
@@ -14133,7 +14133,7 @@
     "Jackie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://118660039926391",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 6000,
         "Offset": -1.3,
         "Max": 2,
@@ -14181,7 +14181,7 @@
     "The Blob": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://75705628462698",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 45000,
         "Offset": 0.5,
         "Max": 1,
@@ -14269,7 +14269,7 @@
     "Chica's Magic Rainbow": {
         "Type": "Continous Pierce Spread",
         "Image": "rbxassetid://100362118597526",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 41000,
         "Offset": 0,
         "Max": 1,
@@ -14309,7 +14309,7 @@
     "Carnie": {
         "Type": "Cone AOE Burn + Stun",
         "Image": "rbxassetid://105073583638652",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 1,
@@ -14444,7 +14444,7 @@
     "Star Spangled Orville": {
         "Type": "Explosive Wither",
         "Image": "rbxassetid://127898009659800",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 44000,
         "Offset": -1.5,
         "Max": 2,
@@ -14745,7 +14745,7 @@
     "Flipside Freddy": {
         "Type": "Slash + Passive",
         "Image": "rbxassetid://98510603589544",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 99999,
         "Offset": 0.7,
         "Max": 1,
@@ -14786,7 +14786,7 @@
     "Engineer Chica": {
         "Type": "Explosion + Passive",
         "Image": "rbxassetid://93532497758458",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 39000,
         "Offset": -1,
         "Max": 2,
@@ -14958,7 +14958,7 @@
     "Molten Serpent": {
         "Type": "Chain Melee",
         "Image": "rbxassetid://125846840665791",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 35000,
         "Offset": -3.7,
         "Max": 2,
@@ -15244,7 +15244,7 @@
     "Sun Guardian Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://134863215965587",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 29000,
         "Offset": 0,
         "Max": 2,
@@ -15292,7 +15292,7 @@
     "Waterworks Foxy": {
         "Type": "Continous Splash Slow",
         "Image": "rbxassetid://121168642208042",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 3000,
         "Offset": -1,
         "Max": 1,
@@ -15340,7 +15340,7 @@
     "Into the Pool": {
         "Type": "Single Slow AOE + Passive",
         "Image": "rbxassetid://131726719551115",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -15389,7 +15389,7 @@
     "Porcelain Weaver Chica": {
         "Type": "Pierce + Summon",
         "Image": "rbxassetid://70660696068882",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 22000,
         "Offset": 0.4,
         "Max": 2,
@@ -15529,7 +15529,7 @@
      "Painter Puppet": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://74447601469380",
-        "Rarity": "Nightmare",
+        "Rarity": "Revenant",
         "PlacePrice": 20000,
         "Max": 2,
         "Passive": {"Name": "Paint Splatter", "Description": "When this unit attacks, has a 60% chance to apply Slow (58.5% for 1s), Wither (17.5% for 1s), and Anti-Regen (35% for 1.5s) "},
