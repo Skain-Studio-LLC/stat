@@ -1113,7 +1113,7 @@
  "Marionette's Puppeteer": {
         "Type": "AOE",
         "Image": "rbxassetid://18151575297",
-        "Rarity": "Revenant",
+        "Rarity": "Godly",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -2133,7 +2133,7 @@
   "Bounded Shadow": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363555442",
-        "Rarity": "Revenant",
+        "Rarity": "Godly",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
