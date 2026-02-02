@@ -310,7 +310,7 @@
     "Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -426,7 +426,7 @@
     "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -464,7 +464,7 @@
     "Withered Bonnie": {
         "Type": "Single",
         "Image": "rbxassetid://16632217188",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 20000,
         "Max": 3,
         "hitboxOffset": {
@@ -657,7 +657,7 @@
     "Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781119726",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 12500,
         "Max": 2,
         "hitboxOffset": {
@@ -696,7 +696,7 @@
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -734,7 +734,7 @@
   "Balloon Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://16781077553",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Max": 3,
         "AnimationOffset": -5,
@@ -773,7 +773,7 @@
     "Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://17629034232",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 4000,
         "Max": 2,
         "Offset": 0,
@@ -812,7 +812,7 @@
     "Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://17802016570",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -902,7 +902,7 @@
     "Endo": {
         "Type": "Support",
         "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 1000,
         "NoEnemyAttack": true,
         "Max": 2,
@@ -945,7 +945,7 @@
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
@@ -984,7 +984,7 @@
     "Plane Boy": {
         "Type": "Continuous",
         "Image": "rbxassetid://17689713814",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 20000,
         "Offset": 2,
         "Max": 2,
@@ -1023,7 +1023,7 @@
     "Rockin Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://17689695988",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Max": 5,
         "hitboxOffset": {
@@ -1061,7 +1061,7 @@
     "Pirate Withered Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://17851205149",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Offset": 0.55,
         "Max": 3,
@@ -1289,7 +1289,7 @@
     "Coco Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18256042312",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 6000,
         "Max": 3,
         "hitboxOffset": {
@@ -1327,7 +1327,7 @@
     "Vendor Toy Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://121812873213035",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1000,
         "Max": 3,
         "hitboxOffset": {
@@ -1366,7 +1366,7 @@
     "Seven Seas Foxy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18255813345",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 5000,
         "Max": 4,
         "hitboxOffset": {
@@ -1533,7 +1533,7 @@
     "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 800,
         "Max": 3,
         "hitboxOffset": {
@@ -1572,7 +1572,7 @@
     "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18326604996",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 300,
         "Max": 4,
         "hitboxOffset": {
@@ -1725,7 +1725,7 @@
    "Phantom Chica": {
         "Type": "Explosion",
         "Image": "rbxassetid://18356356760",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Max": 2,
         "hitboxOffset": {
@@ -1763,7 +1763,7 @@
     "Phantom Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363498934",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Max": 3,
         "hitboxOffset": {
@@ -1801,7 +1801,7 @@
     "Phantom Balloon Boy": {
         "Type": "Nuke",
         "Image": "rbxassetid://18356472602",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
@@ -1839,7 +1839,7 @@
     "Phantom Gold Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18363517791",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 3000,
         "Max": 4,
         "hitboxOffset": {
@@ -1971,7 +1971,7 @@
     "Phantom Cupcake": {
         "Type": "Single",
         "Image": "rbxassetid://18363537562",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 800,
         "Max": 4,
         "hitboxOffset": {
@@ -2052,7 +2052,7 @@
     "Phantom Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://18363546528",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 35000,
         "Max": 2,
         "hitboxOffset": {
@@ -2297,7 +2297,7 @@
     "Witch Toy Chica": {
         "Type": "Poison",
         "Image": "rbxassetid://18363391561",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Max": 3,
         "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
@@ -2505,7 +2505,7 @@
     "Enforcer Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673234413",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 10000,
         "Max": 2,
         "hitboxOffset": {
@@ -2551,7 +2551,7 @@
     "Mercenary Foxy": {
         "Type": "Continuous",
         "Image": "rbxassetid://18673129884",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 2500,
         "Max": 4,
         "hitboxOffset": {
@@ -2597,7 +2597,7 @@
     "Cupcake Tank": {
         "Type": "Summoner",
         "Image": "rbxassetid://18673630095",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 2000,
         "Max": 2,
         "hitboxOffset": {
@@ -2731,7 +2731,7 @@
     "Rocketeer Mangle": {
         "Type": "Explosion",
         "Image": "rbxassetid://18673926504",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 5000,
         "Max": 3,
         "hitboxOffset": {
@@ -2848,7 +2848,7 @@
     "Tarnished Spring Bonnie": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://18777411515",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -3023,7 +3023,7 @@
     "Scott": {
         "Type": "Splash",
         "Image": "rbxassetid://18864498819",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 5000,
         "Offset": 1.25,
         "Max": 1,
@@ -3205,7 +3205,7 @@
     "The Crying Child": {
         "Type": "Slow",
         "Image": "rbxassetid://18937271323",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 2,
@@ -3256,7 +3256,7 @@
     "Nightmare Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://18974775213",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Offset": 1,
         "Max": 3,
@@ -3295,7 +3295,7 @@
     "Nightmare Bonnie": {
         "Type": "Melee",
         "Image": "rbxassetid://18975677946",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": 0.25,
         "Max": 3,
@@ -3546,7 +3546,7 @@
     "Nightmare": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977738423",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 10000,
         "Offset": 0.5,
         "Max": 3,
@@ -3594,7 +3594,7 @@
     "Endo 04": {
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18989232497",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -3746,7 +3746,7 @@
     "Freddle": {
         "Type": "Summoner",
         "Image": "rbxassetid://18978374958",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 400,
         "Offset": 0,
         "Max": 3,
@@ -3797,7 +3797,7 @@
   "Nightmare Balloon Boy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18978330449",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 4,
@@ -3836,7 +3836,7 @@
     "Plushtrap": {
         "Type": "Support",
         "Image": "rbxassetid://18978316223",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -4023,7 +4023,7 @@
     "Rave Demon Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://100372638867635",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 7500,
         "Offset": 0.7,
         "Max": 1,
@@ -4154,7 +4154,7 @@
     "Hydra Mangle": {
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://78092879730354",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 95000,
         "Offset": 0,
         "Max": 1,
@@ -4216,7 +4216,7 @@
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -4309,7 +4309,7 @@
 "Tuned Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://139180573868562",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -4348,7 +4348,7 @@
     "Wraith Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://115627084338568",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 53000,
         "Offset": 0,
         "Max": 2,
@@ -4387,7 +4387,7 @@
     "Spectral Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://130677986382080",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 3,
@@ -4526,7 +4526,7 @@
     "Fractured Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://124956379444337",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 4,
@@ -4610,7 +4610,7 @@
     "Tavern Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://75064673887993",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -4693,7 +4693,7 @@
     "Slick Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://123472154860279",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 2000,
         "Offset": 0,
         "Max": 3,
@@ -4817,7 +4817,7 @@
     "BlindEye Foxy": {
         "Type": "Single Slow",
         "Image": "rbxassetid://122884069811995",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 2,
@@ -4861,7 +4861,7 @@
     "Gunslinger Endo": {
         "Type": "Single",
         "Image": "rbxassetid://128673605608035",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 12000,
         "Offset": 0,
         "Max": 4,
@@ -4940,7 +4940,7 @@
     "Jackpot Freddy": {
         "Type": "Splash Farm",
         "Image": "rbxassetid://108467505723572",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -5159,7 +5159,7 @@
 "Phone Guy": {
         "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://138275060327175",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
@@ -5416,7 +5416,7 @@
 "Ballora": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://96561789964833",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -5539,7 +5539,7 @@
 "Mendo": {
         "Type": "Trap Layer",
         "Image": "rbxassetid://117153987968201",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 2,
@@ -5628,7 +5628,7 @@
     "Tangle": {
         "Type": "Nuke",
         "Image": "rbxassetid://75252636792874",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 6500,
         "Offset": -1.2,
         "Max": 1,
@@ -5767,7 +5767,7 @@
 "Elizabeth": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://102659257102214",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 400,
         "Offset": 0,
         "Max": 3,
@@ -5861,7 +5861,7 @@
     "Animdude": {
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://77112261441145",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 4000,
         "Offset": 1.25,
         "Max": 1,
@@ -5926,7 +5926,7 @@
     "Fortified Endo 02": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://86634335404738",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 4,
@@ -5987,7 +5987,7 @@
     "Bomber Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://105906895649413",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 56000,
         "Offset": 0,
         "Max": 1,
@@ -6116,7 +6116,7 @@
      "Fazbear Mafia": {
         "Type": "Splash + Summon",
         "Image": "rbxassetid://131447165249179",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 8000,
         "Offset": 0.3,
         "Max": 2,
@@ -6177,7 +6177,7 @@
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "rbxassetid://122976176441685",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 250,
         "Offset": -0.4,
         "Max": 2,
@@ -6318,7 +6318,7 @@
 "Jack O Cannon": {
         "Type": "Splash",
         "Image": "rbxassetid://96604370427078",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 3000,
         "Offset": -0.5,
         "Max": 1,
@@ -6427,7 +6427,7 @@
  "Clowntrap": {
         "Type": "Splash Stun",
         "Image": "rbxassetid://98100058612651",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 3,
@@ -6490,7 +6490,7 @@
  "Grimm Foxy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://101295016610509",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Offset": 1,
         "Max": 3,
@@ -6599,7 +6599,7 @@
 "Jack O Bonnie": {
         "Type": "Cone AOE Burst",
         "Image": "rbxassetid://138089489409264",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -6653,7 +6653,7 @@
 "Jack O Endo": {
         "Type": "Continuous Burn",
         "Image": "rbxassetid://140269643382452",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 17500,
         "Offset": 0,
         "Max": 3,
@@ -6872,7 +6872,7 @@
 "Haunted Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://113183024632182",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 4000,
         "Offset": -2,
         "Max": 3,
@@ -6989,7 +6989,7 @@
     "Upgraded Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://76006977041371",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7406,7 +7406,7 @@
     "Nightguard Afton": {
         "Type": "Cone AOE Slow + Poison",
         "Image": "rbxassetid://105795940597453",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 550,
         "Offset": 0,
         "Max": 3,
@@ -7462,7 +7462,7 @@
     "President Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://133399431749556",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 300,
         "Offset": 0,
         "Max": 4,
@@ -7501,7 +7501,7 @@
 "Sharpshooter Puppet": {
         "Type": "Pierce",
         "Image": "rbxassetid://122218118663611",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7581,7 +7581,7 @@
     "Ghastly Phantom Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://107487482857244",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -7745,7 +7745,7 @@
     "Rockstar Bonnie": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://134586861865689",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
@@ -7785,7 +7785,7 @@
     "Rockstar Foxy": {
         "Type": "AOE + Booster",
         "Image": "rbxassetid://94327478010876",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -7881,7 +7881,7 @@
     "Molten Freddy": {
         "Type": "Explosion Burn",
         "Image": "rbxassetid://72496434217414",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 17500,
         "Offset": -0.75,
         "Max": 3,
@@ -7931,7 +7931,7 @@
     "Security Puppet": {
         "Type": "Pierce + Slow",
         "Image": "rbxassetid://85978475503613",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 12500,
         "Offset": 0,
         "Max": 2,
@@ -8055,7 +8055,7 @@
     "Bucket Bob": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://126581484399291",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 300,
         "Offset": -0.925,
         "Max": 4,
@@ -8330,7 +8330,7 @@
     "Mr Can Do": {
         "Type": "Single",
         "Image": "rbxassetid://127532360538478",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 700,
         "Offset": -1.75,
         "Max": 3,
@@ -8376,7 +8376,7 @@
     "Geared Endo": {
         "Type": "Splash Continuous",
         "Image": "rbxassetid://89920479623802",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
@@ -8549,7 +8549,7 @@
     "Steampunk Mangle": {
         "Type": "Splash",
         "Image": "rbxassetid://79766987241564",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 11000,
         "Offset": -2,
         "Max": 3,
@@ -8639,7 +8639,7 @@
     "Mechanic Afton": {
         "Type": "Cone AOE + Summon",
         "Image": "rbxassetid://130168982034034",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8741,7 +8741,7 @@
     "Windup Bonnie": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://95407534025882",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -8872,7 +8872,7 @@
     "Tarnished Fredbear": {
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://87312476983878",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -8920,7 +8920,7 @@
     "Gladiator Foxy": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://75495154036126",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -9047,7 +9047,7 @@
 "Freddy Frostbear": {
         "Type": "Pierce Slow + Passive",
         "Image": "rbxassetid://130800122285848",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
@@ -9143,7 +9143,7 @@
     "Reindeer Withered Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://128903190044752",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
          "PlacePrice": 14500,
         "Offset": 0,
         "Max": 3,
@@ -9422,7 +9422,7 @@
     "Nutcracker Chica": {
         "Type": "Single",
         "Image": "rbxassetid://139406919744982",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1500,
         "Offset": -1,
         "Max": 3,
@@ -9609,7 +9609,7 @@
     "Frost Plushtrap": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://83475745010763",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 3500,
         "Offset": 0,
         "Max": 3,
@@ -9852,7 +9852,7 @@
     "Roxanne Wolf": {
         "Type": "Pierce",
         "Image": "rbxassetid://130600731757622",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 5000,
         "Offset": 0.3,
         "Max": 2,
@@ -9892,7 +9892,7 @@
     "Montgomery Gator": {
         "Type": "Cone AOE Continuous",
         "Image": "rbxassetid://107200001609382",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 17000,
         "Offset": 0.5,
         "Max": 2,
@@ -9932,7 +9932,7 @@
     "Sunshine": {
         "Type": "AOE Burn",
         "Image": "rbxassetid://73088362644228",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 14000,
         "Offset": 0.5,
         "Max": 2,
@@ -10122,7 +10122,7 @@
     "Wet Floor Bot": {
         "Type": "AOE + Cooldown Boost",
         "Image": "rbxassetid://127516376865863",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 400,
         "Offset": -1.75,
         "Max": 3,
@@ -10314,7 +10314,7 @@
     "Glamrock Endo": {
         "Type": "Damage Boost",
         "Image": "rbxassetid://99936011662010",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 800,
         "NoEnemyAttack": true,
         "Offset": 0.7,
@@ -10573,7 +10573,7 @@
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://80289284808475",
         "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 25%"},
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 2,
@@ -10621,7 +10621,7 @@
         "Type": "Splash + Booster",
         "Image": "rbxassetid://83624388314614",
         "Passive": {"Name": "Cooldown Boost", "Description": "All units in range recieve -26% cooldown"},
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 10000,
         "NoEnemyAttack": true,
         "Offset": 0.4,
@@ -10712,7 +10712,7 @@
     "Zeus Fredeus": {
         "Type": "Splash",
         "Image": "rbxassetid://135540199495231",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -10906,7 +10906,7 @@
     "Forest Nymph Bonnie": {
         "Type": "Splash + Stun",
         "Image": "rbxassetid://98536829599815",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -11119,7 +11119,7 @@
     "Ruined Glamrock Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://85309483901437",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -11158,7 +11158,7 @@
     "Eclipse": {
         "Type": "Single",
         "Image": "rbxassetid://91251907054257",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -11197,7 +11197,7 @@
     "The Mimic": {
         "Type": "Slash",
         "Image": "rbxassetid://108843809969916",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 16000,
         "Offset": 0,
         "Max": 2,
@@ -11456,7 +11456,7 @@
     "Fan": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 250,
         "Offset": -1,
         "Max": 3,
@@ -11504,7 +11504,7 @@
     "The Princess": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://81703563273569",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 650,
         "Offset": 0,
         "Max": 3,
@@ -11687,7 +11687,7 @@
     "Great Escape Freddy": {
         "Type": "AOE + Slow",
         "Image": "rbxassetid://103794950872304",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 2,
@@ -12013,7 +12013,7 @@
     "Alien Helpy": {
         "Type": "Splash",
         "Image": "rbxassetid://139505346452682",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 450,
         "Offset": 0,
         "Max": 3,
@@ -12058,7 +12058,7 @@
     "Cosplushtrap": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://95716821507565",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 2,
@@ -12352,7 +12352,7 @@
     "HandUnit": {
         "Type": "Triple Boost",
         "Image": "rbxassetid://132341684644708",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -12405,7 +12405,7 @@
     "Orville": {
         "Type": "Splash + Slow",
         "Image": "rbxassetid://97997092352387",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": -1.2,
         "Max": 2,
@@ -12453,7 +12453,7 @@
     "Nedd Bear": {
         "Type": "Cone AOE + Stun",
         "Image": "rbxassetid://132984353966246",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -12539,7 +12539,7 @@
     "Happy Frog": {
         "Type": "Range Booster",
         "Image": "rbxassetid://106312352744687",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 650,
         "Offset": 0,
         "Max": 3,
@@ -12835,7 +12835,7 @@
     "Crying Soul": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://123447611843908",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 350,
         "Offset": 0,
         "Max": 3,
@@ -13174,7 +13174,7 @@
     "Molten Foxy": {
         "Type": "Splash + Burn",
         "Image": "rbxassetid://121765228317508",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 8000,
         "Offset": 0.5,
         "Max": 3,
@@ -13222,7 +13222,7 @@
     "Dino Plane Boy": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://99044609988802",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 2,
@@ -13418,7 +13418,7 @@
         "Dino Pals": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://121830495643041",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
@@ -13582,7 +13582,7 @@
         "Dessert Funtime Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://70374908034183",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
@@ -13864,7 +13864,7 @@
     "Gregory": {
         "Type": "Continous Splash",
         "Image": "rbxassetid://127074941934847",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 8000,
         "Offset": 3,
         "Max": 2,
@@ -13903,7 +13903,7 @@
     "Tiger Rock": {
         "Type": "Slash",
         "Image": "rbxassetid://91972547700934",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 30000,
         "Offset": 1,
         "Max": 3,
@@ -14037,7 +14037,7 @@
     "Prototype Glamrock Freddy": {
         "Type": "Continous Splash Stun",
         "Image": "rbxassetid://80796451549035",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 12000,
         "Offset": 1,
         "Max": 3,
@@ -14085,7 +14085,7 @@
     "Fetch": {
         "Type": "Splash + Bleed",
         "Image": "rbxassetid://77053332392875",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 400,
         "Offset": -0.5,
         "Max": 3,
@@ -14404,7 +14404,7 @@
     "JJ": {
         "Type": "Explosion",
         "Image": "rbxassetid://83426992973072",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
@@ -14692,7 +14692,7 @@
     "Cyber Police Roxy": {
         "Type": "Pierce Wither",
         "Image": "rbxassetid://126934941324179",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 3000,
         "Offset": 0.6,
         "Max": 1,
@@ -14866,7 +14866,7 @@
     "Heatwave Sun": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://75319446250390",
-        "Rarity": "Mythic",
+        "Rarity": "Legendary",
         "PlacePrice": 4500,
         "Offset": 1,
         "Max": 2,
@@ -14905,7 +14905,7 @@
     "El Jellychip": {
         "Type": "Zap + Boost",
         "Image": "rbxassetid://136969034043541",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 12000,
         "Offset": 0.3,
         "Max": 1,
@@ -15062,7 +15062,7 @@
     "Strawbaby": {
         "Type": "Splash Slow",
         "Image": "rbxassetid://75900449156657",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
@@ -15199,7 +15199,7 @@
     "Drained Coffee": {
         "Type": "Splash",
         "Image": "rbxassetid://88006758893374",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 750,
         "Offset": -0.5,
         "Max": 3,
@@ -15437,7 +15437,7 @@
     "Birthday Bash Bonnie": {
         "Type": "Nuke",
         "Image": "rbxassetid://72792573129785",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 45000,
         "Offset": 1,
         "Max": 1,
@@ -15594,7 +15594,7 @@
     "Warpseer Mangle": {
         "Type": "Nuke",
         "Image": "rbxassetid://134052825970100",
-        "Rarity": "Secret",
+        "Rarity": "Ascended",
         "PlacePrice": 25000,
         "Max": 2,
         "Passive": {"Name": "Witchrot", "Description": "Main attack applies 50% Anti-Regen for 2s. Every 5 seconds the next attack deals an additional 40% damage in Poison over 2s."},
